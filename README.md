@@ -35,7 +35,9 @@ Este proyecto utiliza Python 3.x y las siguientes librerías:
 - **imbalanced-learn**
 
 Para instalar las dependencias, ejecuta:
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+```
 
 ---
 
