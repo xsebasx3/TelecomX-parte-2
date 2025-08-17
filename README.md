@@ -50,6 +50,7 @@ git clone https://github.com/tu-usuario/telecomx-parte2.git
 cd telecomx-parte2
 ```
  o descarga los archivos.
+ 
 3. Abre el notebook TelecomX_LATAM.ipynb en Jupyter Notebook o Google Colab [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/?hl=es-ES 
 )
 4. Ejecuta todas las celdas en orden para:
